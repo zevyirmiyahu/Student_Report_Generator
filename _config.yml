@@ -1,6 +1,6 @@
 title: Student Report Generator
-logo: /assets/img/zev_pixels.png
+logo: Student_Report_Generator/assets/img/zev_pixels.png
 description: Program outputs a random student report with the parameters specified by the user.
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
