@@ -4,7 +4,7 @@ The intended use of this program is for teachers who need to write behavioral/ac
 This program will quickly and effortlessly build a student report. Simply fill out the required fields (name, gender, etc.) 
 and click generate. Note, the text box is unformatted and will be formatted automatically when the report is 
 pasted into the desired editor. The user can fill in the optional text box about course over view and the final text box 
-about contact the teacher for any question. You can download the program here: ![Download JAR File](https://github.com/zevyirmiyahu/Student_Report_Generator/blob/master/Student%20Report%20Generator.jar) To run the program make sure you have the latest version of Java installed.
+about contact the teacher for any question. You can download the program here: <a href="https://github.com/zevyirmiyahu/Student_Report_Generator/blob/master/Student%20Report%20Generator.jar"><b>Download JAR File</b></a> To run the program make sure you have the latest version of Java installed.
 
 ### Tips on use: 
 1. click the generated text, 
