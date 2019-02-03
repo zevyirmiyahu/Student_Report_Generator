@@ -16,11 +16,11 @@ Enjoy.
 ## Images
 
 ### Start Screen
-![Start Screen](https://zevyirmiyahu.github.io/images/StudentReportGeneratorpic1.png)
+![Start Screen](https://zevyirmiyahu.github.io/images/Student_Report_Generator/StudentReportGeneratorpic1.png)
 
 
 ### Generated Screen
-![Generated Screen](https://zevyirmiyahu.github.io/images/StudentReportGeneratorpic2.png)
+![Generated Screen](https://zevyirmiyahu.github.io/images/Student_Report_Generator/StudentReportGeneratorpic2.png)
 
 
 [<< Back](http://zevyirmiyahu.github.io)
