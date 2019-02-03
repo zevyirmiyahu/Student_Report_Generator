@@ -1,5 +1,5 @@
 title: Student Report Generator
-logo: https://zevyirmiyahu.github.io/images/Me/zev_pixels.png
+logo: /logo/zev_pixels.png
 description: Program outputs a random student report with the parameters specified by the user.
 show_downloads: true
 google_analytics:
