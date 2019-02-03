@@ -13,7 +13,6 @@ import java.awt.event.FocusEvent;
 import java.awt.event.FocusListener;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
-import java.util.Random;
 
 import javax.imageio.ImageIO;
 import javax.swing.BorderFactory;
@@ -52,11 +51,6 @@ public class Viewer implements ActionListener, FocusListener {
 	private static boolean isShy = false;
 	private String behavior = "";
 	private String performance = "";
-	
-	//private URL imageStream = getClass().getClassLoader().getResource("src/student_report/res/REPS_symbol.png");
-	//private ImageIcon image = new ImageIcon(imageStream);
-	//private ImageIcon image = new ImageIcon(new ImageIcon("src/student_report/res/REPS_symbol.png").getImage().getScaledInstance(200, 200, Image.SCALE_DEFAULT));
-	//private ImageIcon image = image.getClass().getResourceAsStream("src/student_report/res/REPS_symbol.png");
 	
 	private JLabel imageLabel; 
   
@@ -116,7 +110,7 @@ public class Viewer implements ActionListener, FocusListener {
 	private int outputFrameHeight = 580;
 	
 	
-	private Font titleFont = new Font("Verdana", 1, 25);
+	//private Font titleFont = new Font("Verdana", 1, 25);
 	private Font textFont = new Font("Verdana", 0, 15);
 	private Font checkBoxFont = new Font("Verdana", 0, 13);
 	private Font buttonFont = new Font("Verdana", 1, 11);
@@ -195,10 +189,6 @@ public class Viewer implements ActionListener, FocusListener {
 						+ "\n E-mail: zy@zevyirmiyahu.com"
 						+ "\n GitHub: https://github.com/zevyirmiyahu"
 						+ "\n Personal Site: http://zevyirmiyahu.com/"
-						+ "\n"
-						+ "\n"
-						+ "\n"
-						+ "\n"
 						+ "\n"
 						+ " Version 2.0"
 						+ "\n"
@@ -488,6 +478,4 @@ public class Viewer implements ActionListener, FocusListener {
 		});
 		*/
 	}
-
-
 }

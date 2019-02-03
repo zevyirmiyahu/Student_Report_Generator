@@ -129,6 +129,7 @@ public class ReportMaker {
 			shyText = "Firstly, " + studentName + " " + randomNotShyComments.get(generateNotShyComments());
 		
 		if(isMale) {
+			
 			int bc1_index = generateComments(randomBehaviorComments, usedRandomBehaviorComments); // behavior comments indices
 			int bc2_index = generateComments(randomBehaviorComments, usedRandomBehaviorComments);
 			
@@ -204,6 +205,5 @@ public class ReportMaker {
 		transitionWordsConclusion.clear();
 		
 		return report;
-		
 	}
 }

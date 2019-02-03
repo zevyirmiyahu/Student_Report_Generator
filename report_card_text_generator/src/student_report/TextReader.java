@@ -42,7 +42,6 @@ public class TextReader {
 	private static int transitionWordsAddition_SIZE = 14;
 	private static int transitionWordsConclusion_SIZE = 27;
 
-	
 	// Comments for shy / not shy student
 	private static ArrayList<String> shyComments = new ArrayList<String>();
 	private static ArrayList<String> notShyComments = new ArrayList<String>();
@@ -83,7 +82,7 @@ public class TextReader {
 		InputStream in = this.getClass().getResourceAsStream("res/" + fileName); 
 		BufferedReader reader = new BufferedReader(new InputStreamReader(in));
 		
-		//Below doesn't work in jar MUST  read as stream
+		//Below doesn't work in jar MUST read as stream
 		//Files.newBufferedReader((ClassLoader.getSystemResourceAsStream("src/student_report/res/" + fileName)); //searchResource("src/student_report/res/" + fileName);
 		//Path p = Paths.get("src/student_report/res/" + fileName);
 		//BufferedReader reader = Files.newBufferedReader(p);
